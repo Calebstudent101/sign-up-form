@@ -1,0 +1,93 @@
+p {
+    color: rgb(60, 58, 55);
+}
+
+h1{
+    text-align: center;
+
+}
+.center{
+    color: rgb(13, 14, 14);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: pink;
+    text-align: center;
+    border-radius: 10px;
+    align-content: center;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+div{
+  background-color: pink;
+}
+div:hover {
+  background-color: yellow;
+opacity: 0.7;
+transition:1px;}
+
+body {
+    background-color: antiquewhite;
+    justify-content: center;
+    align-content: center;
+    
+  }
+  div{
+    margin-top: 3%;
+  }
+  label{
+    font-weight: bold;
+    
+    width: 120px;
+    text-align: right;
+    
+    
+    
+  }
+
+.form-group {
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  
+  
+  input {
+    padding: 5px;
+    border-radius: 10px;
+    color: brown;
+  }
+  .center-header{
+    
+    color: rgb(13, 14, 14);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+    text-align: center;
+    border-radius: 10px;
+    width: 500px;
+    justify-content: center;
+    align-content: center;
+    margin: 20px auto;
+    
+    margin-bottom: 10px;
+    
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+.roles-div{
+    text-align: center;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+
+
+
+      
+  
+  
